@@ -1,4 +1,4 @@
-# Black-Scholes-Model-
+# Black-Scholes-Model
 This interactive tool uses the Black-Scholes model to calculate and visualize the fair value of European Call and Put options.
 You can input stock price, strike price, interest rate, time to maturity, and volatility to:
 
